@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Pedro Mezzonato 👋
 
 ### Web Developer & Designer — Founder of [Yellow Finch](https://yellowfinchlabs.com)
 
@@ -15,14 +15,14 @@
 We design and build through **Yellow Finch** — a studio built on a modern, end-to-end process: considered design systems, AI-assisted workflows, and lean, performance-first engineering. Every project starts with a real visual identity, then gets built precisely around it — fully custom, or refined on WordPress, depending on what it actually needs.
 
 🌐 Studio: [yellowfinchlabs.com](https://yellowfinchlabs.com)
-📬 Get in touch: [hello@yellowfinchlabs.com](mailto:hello@yellowfinchlabs.com)
+📬 Get in touch: [pedro@yellowfinchlabs.com](mailto:pedro@yellowfinchlabs.com)
 
 ---
 
-### Featured projects
+### Current projects
 
 **[The Black Cat](https://theblackcatshop.com)**
-Curated books, timeless reading lists & beautiful editions worth bringing home. Built on WordPress with Elementor Pro and JetEngine.
+Curated books, timeless reading lists & beautiful editions worth bringing home. Built on WordPress.
 
 **fffoundish** — *in progress*
 Something new, currently in the works. Check back soon.
@@ -42,5 +42,5 @@ Something new, currently in the works. Check back soon.
 </div>
 
 <div align="center">
-<sub>Building Yellow Finch, one site at a time 🐦</sub>
+<sub>Building Yellow Finch, one site at a time</sub>
 </div>
