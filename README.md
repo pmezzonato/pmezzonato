@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14120F,100:E4B33C&height=180&section=header&text=Yellow%20Finch&fontSize=50&fontColor=F3EEE3&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-# Hey, I'm Pedro Mezzonato 👋
+# Hey, I'm [Your Name] 👋
 
 ### Web Developer & Designer — Founder of [Yellow Finch](https://yellowfinchlabs.com)
 
@@ -14,7 +12,7 @@
 
 ### About me
 
-I design and build websites through my studio, **Yellow Finch** — clean, fast, and shaped around the brand behind them.
+We design and build through **Yellow Finch** — a studio built on a modern, end-to-end process: considered design systems, AI-assisted workflows, and lean, performance-first engineering. Every project starts with a real visual identity, then gets built precisely around it — fully custom, or refined on WordPress, depending on what it actually needs.
 
 🌐 Studio: [yellowfinchlabs.com](https://yellowfinchlabs.com)
 📬 Get in touch: [hello@yellowfinchlabs.com](mailto:hello@yellowfinchlabs.com)
