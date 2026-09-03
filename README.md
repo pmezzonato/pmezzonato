@@ -2,7 +2,7 @@
 
 # Hey, I'm Pedro Mezzonato 👋
 
-### Web Developer & Designer — Founder of [Yellow Finch](https://yellowfinchlabs.com)
+### Web Dev & Founder of [Yellow Finch](https://yellowfinchlabs.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=18&pause=1000&color=E4B33C&center=true&vCenter=true&width=500&lines=Custom+%26+WordPress+websites;Design-led%2C+performance-first;Building+Yellow+Finch+%F0%9F%90%A6" alt="Typing SVG" />
 
