@@ -1,61 +1,58 @@
 <div align="center">
 
-# Pedro Mezzonato
+# Hey, I'm Pedro Mezzonato 👻
 
-### Changing careers into cybersecurity — aiming at AppSec & penetration testing
-
-**Beginner. Studying every day. Learning in public.**
+### Application security & penetration testing
 
 </div>
 
 ---
 
-### About me
+### About
 
-I spent the last few years designing and building for the web. I'm now making a deliberate career change into cybersecurity, and I want to be upfront about where I am: **I'm at the beginning.** No professional security experience, no industry certification yet.
+Moving from building web applications to breaking them.
 
-What I do have is a study habit and a direction. I'm working through structured paths on TryHackMe, taking notes, and repeating things until they actually stick rather than collecting completion badges. My web development background pulls me naturally toward **application security and penetration testing** — I've spent years on the building side of web apps, and understanding how they break is the part I want to get good at.
+After a few years designing and developing for the web, I'm redirecting toward offensive security — application security and penetration testing in particular, where the development background actually counts for something. I started a Computer Science bachelor's degree in 2025 and I'm working through structured offensive security paths alongside it.
 
-Everything listed below is something I actually finished. If it's in progress, it says so.
-
----
-
-### Where I'm at right now
-
-- Working through the **Jr Penetration Tester** path on TryHackMe
-- Just getting started on **HackTheBox**
-- Building up web application security fundamentals — OWASP Top 10, Burp Suite, recon
-- Reading and practicing daily, not sprinting
+I'm early in this transition, and the credentials below are foundational ones. I list them as exactly what they are.
 
 ---
 
-### Learning paths
+### Currently
 
-**TryHackMe** — [@pmezzonato](https://tryhackme.com/p/pmezzonato) · [all badges](https://tryhackme.com/p/pmezzonato?tab=badges)
+- **Jr Penetration Tester** path on TryHackMe
+- Web application security — OWASP Top 10, Burp Suite, reconnaissance
+- Computer Science bachelor's, ongoing since 2025
+
+---
+
+### Platforms
+
+**TryHackMe** — [@pmezzonato](https://tryhackme.com/p/pmezzonato) · [badges](https://tryhackme.com/p/pmezzonato?tab=badges)
 
 | Path | Status | Certificate |
 |---|---|---|
-| Pre Security | ✅ Completed | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CVSC0O4DYK.pdf) |
-| Cyber Security 101 | ✅ Completed | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MVMW8A3GV2.pdf) |
-| Jr Penetration Tester | 🔄 In progress | — |
+| Pre Security | Completed | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CVSC0O4DYK.pdf) |
+| Cyber Security 101 | Completed | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MVMW8A3GV2.pdf) |
+| Jr Penetration Tester | In progress | — |
 
-**HackTheBox** — [@pmezzonato](https://profile.hackthebox.com/profile/01a06279-d14c-7222-9f26-ff1a6036c49d) *(just getting started)*
+**HackTheBox** — [@pmezzonato](https://profile.hackthebox.com/profile/01a06279-d14c-7222-9f26-ff1a6036c49d)
 
 ---
 
-### Badges & credentials
+### Credentials
 
-No industry certification yet — that's the next milestone. These are the credentials I've earned so far:
+Foundational badges and course credentials — not industry certifications.
 
 - **[Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/e0e5b6b3-93cd-422e-8e75-ca52508aa35f)** — Cisco
 - **[Cybersecurity Fundamentals](https://www.credly.com/earner/earned/badge/42857e4f-c794-4e33-b78c-207dc48baf74)** — IBM SkillsBuild
-- **[ISC2 Candidate](https://www.credly.com/earner/earned/badge/79c4f2a9-2d4c-4a4e-9adb-71dfb1c6bb3a)** — ISC2 *(working toward Certified in Cybersecurity (CC))*
+- **[ISC2 Candidate](https://www.credly.com/earner/earned/badge/79c4f2a9-2d4c-4a4e-9adb-71dfb1c6bb3a)** — ISC2, working toward Certified in Cybersecurity (CC)
 
 ---
 
-### Tools I'm learning
+### Tools
 
-Introduced through guided rooms and labs — I'm a beginner with all of these, not proficient.
+Worked with across labs and guided rooms.
 
 <div align="center">
 
@@ -72,18 +69,10 @@ Introduced through guided rooms and labs — I'm a beginner with all of these, n
 
 ### Background
 
-Before this, I built websites and ran a small web studio, [Yellow Finch](https://yellowfinchlabs.com) — custom builds and WordPress, mostly with Astro, Tailwind, JavaScript and Linux servers. That's not what I'm pursuing anymore, but it's the groundwork I'm building security knowledge on top of: how web apps are actually put together, deployed and misconfigured.
+Before this I built websites and ran a small web studio, [Yellow Finch](https://yellowfinchlabs.com) — custom builds and WordPress, mostly Astro, Tailwind, JavaScript and Linux servers. Not what I'm pursuing anymore, but it's the groundwork the security work sits on: how web applications are actually assembled, deployed and misconfigured.
 
 ---
 
-### Get in touch
-
-Open to connecting with people in the field, study partners, and anyone willing to point a beginner in the right direction.
+### Contact
 
 📬 [pedro@yellowfinchlabs.com](mailto:pedro@yellowfinchlabs.com)
-🔗 TryHackMe: [@pmezzonato](https://tryhackme.com/p/pmezzonato)
-🔗 HackTheBox: [@pmezzonato](https://profile.hackthebox.com/profile/01a06279-d14c-7222-9f26-ff1a6036c49d)
-
-<div align="center">
-<sub>Starting over, on purpose.</sub>
-</div>
