@@ -12,7 +12,7 @@
 
 Moving from building web applications to breaking them.
 
-After a few years designing and developing for the web, I'm redirecting toward offensive security — application security and penetration testing in particular, where the development background actually counts for something. I started a Computer Science bachelor's degree in 2025 and I'm working through structured offensive security paths alongside it.
+After a few years designing and developing for the web, I'm redirecting toward offensive security — application security and penetration testing in particular, where the development background actually counts for something. I started a Computer Science bachelor's degree at Estácio in 2025, graduating in 2029, and I'm working through structured offensive security paths alongside it.
 
 I'm early in this transition, and the credentials below are foundational ones. I list them as exactly what they are.
 
@@ -22,7 +22,7 @@ I'm early in this transition, and the credentials below are foundational ones. I
 
 - **Jr Penetration Tester** path on TryHackMe
 - Web application security — OWASP Top 10, Burp Suite, reconnaissance
-- Computer Science bachelor's, ongoing since 2025
+- **Computer Science bachelor's** at Estácio — 2025–2029
 
 ---
 
