@@ -75,4 +75,6 @@ Before this I built websites and ran a small web studio, [Yellow Finch](https://
 
 ### Contact
 
-💬 Discord: **pmezzonato** — the easiest way to reach me
+📬 [pedromezzonato@pm.me](mailto:pedromezzonato@pm.me)
+
+💬 Discord: **pmezzonato**
