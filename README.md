@@ -28,7 +28,7 @@ I'm early in this transition, and the credentials below are foundational ones. I
 
 ### Platforms
 
-**TryHackMe** — [@pmezzonato](https://tryhackme.com/p/pmezzonato) · [badges](https://tryhackme.com/p/pmezzonato?tab=badges)
+**[TryHackMe](https://tryhackme.com/p/pmezzonato)** · [badges](https://tryhackme.com/p/pmezzonato?tab=badges)
 
 | Path | Status | Certificate |
 |---|---|---|
@@ -36,7 +36,7 @@ I'm early in this transition, and the credentials below are foundational ones. I
 | Cyber Security 101 | Completed | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MVMW8A3GV2.pdf) |
 | Jr Penetration Tester | In progress | — |
 
-**HackTheBox** — [@pmezzonato](https://profile.hackthebox.com/profile/01a06279-d14c-7222-9f26-ff1a6036c49d)
+**[HackTheBox](https://profile.hackthebox.com/profile/01a06279-d14c-7222-9f26-ff1a6036c49d)**
 
 ---
 
@@ -75,4 +75,4 @@ Before this I built websites and ran a small web studio, [Yellow Finch](https://
 
 ### Contact
 
-📬 [pedro@yellowfinchlabs.com](mailto:pedro@yellowfinchlabs.com)
+💬 Discord: **pmezzonato** — the easiest way to reach me
